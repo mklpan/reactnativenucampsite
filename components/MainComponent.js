@@ -14,7 +14,7 @@ import SafeAreaView from 'react-native-safe-area-view';
 import { connect } from 'react-redux';
 import { fetchCampsites, fetchComments, fetchPromotions, fetchPartners } from '../redux/ActionCreators';
 
-const mapeDispatchToProps = {
+const mapDispatchToProps = {
     fetchCampsites,
     fetchComments,
     fetchPromotions,
@@ -219,8 +219,7 @@ class Main extends Component {
 
     render() {
         return (
-            <View
-                style={{
+            <View style={{
                     flex: 1,
                     paddingTop: Platform.OS === 'ios' ? 0 : Constants.statusBarHeight
                 }}
