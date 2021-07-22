@@ -1,0 +1,119 @@
+[33mcommit dd1071fe5e3a85a6d35327c6e88e1752542b419e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Wed Jul 7 19:37:06 2021 -0400
+
+    Persist Redux Store
+
+[33mcommit 109281336deb7e2bac2995a69398c5be933b739d[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Wed Jul 7 19:12:35 2021 -0400
+
+    Gestures Part 2
+
+[33mcommit 7e5ed8977a4160d68f97bc8f222765ae18d445f4[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Wed Jul 7 19:06:07 2021 -0400
+
+    Gestures Part 1
+
+[33mcommit 609f108fd4b93bef7119af91db3602b132ace14c[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Wed Jul 7 18:50:37 2021 -0400
+
+    Animatable
+
+[33mcommit 0c55ee10d035de20cfbf7c8d5dfb978ff9a556ad[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Wed Jul 7 17:51:11 2021 -0400
+
+    Animations
+
+[33mcommit 1b73f8a73992bc523a59f83dc103bcdc6aca7401[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Wed Jul 7 17:32:37 2021 -0400
+
+    Alert
+
+[33mcommit 7d5c181ef13786daff8012fbc7524412996a86d5[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Wed Jul 7 17:27:00 2021 -0400
+
+    Swipe and Delete Favorites
+
+[33mcommit 1183c5a5f22c417f8034c1cd1852580f2ee17cef[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Wed Jul 7 16:54:14 2021 -0400
+
+    Favorites
+
+[33mcommit b4a0a02a8ef9a9c2ebe3913272b51cc597e1b659[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Sat Jun 26 12:37:27 2021 -0400
+
+    Forms and Modals
+
+[33mcommit 2d649e6d959c9f1de8da361182518932c1395275[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Sat Jun 26 11:48:02 2021 -0400
+
+    Redux Adding Favorites
+
+[33mcommit fb3cc0f8b9787e5c83ee6b21115004964502f34f[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Sat Jun 26 00:38:32 2021 -0400
+
+    Using Redux
+
+[33mcommit 2a776cfb848cf5ac7801a82432d5554b1059e56d[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Sat Jun 26 00:11:48 2021 -0400
+
+    Setting Up Redux
+
+[33mcommit d14a25e92c1015ec15700f68b52e329d60244345[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Fri Jun 25 23:59:57 2021 -0400
+
+    Navigation Icons and Custom Side Drawer
+
+[33mcommit 52238d8eb968f9e3f758693d0f7b20912fd6e803[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Fri Jun 25 23:30:29 2021 -0400
+
+    Icons, Favorites, and Comments
+
+[33mcommit 07572f940ce245fee2ca08c663da26e8c3cf7f9b[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Tue Jun 22 21:46:30 2021 -0400
+
+    Navigation Part 2
+
+[33mcommit d1318c9bd9fa8129ed776446eeb2f1ae2ca88132[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Tue Jun 22 21:39:38 2021 -0400
+
+    Navigation Part 1
+
+[33mcommit 324f26bdb13ef26983afe9cdf3c1df8324e9e90c[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Mon Jun 21 20:51:10 2021 -0400
+
+    Components Part 2
+
+[33mcommit 5f90508fd80efe1aea325462a31769f8e21329c1[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Mon Jun 21 20:35:07 2021 -0400
+
+    Components Part 1
+
+[33mcommit 217b65c864500ec8d896a481c560d43d0faacd95[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Fri Jun 18 22:39:38 2021 -0400
+
+    first commit
+
+[33mcommit cc8be694f6a4a397cf9e5b3da5b61c218662022f[m
+Author: Mickey <mklpan13@gmail.com>
+Date:   Fri Jun 18 22:39:04 2021 -0400
+
+    Initial Setup
